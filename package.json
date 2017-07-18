@@ -1,0 +1,31 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaphaelRosa/hackathon-amazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaphaelRosa/hackathon-amazon/issues"
+  },
+  "homepage": "https://github.com/RaphaelRosa/hackathon-amazon#readme",
+  "dependencies": {
+    "aws-sdk": "^2.75.0",
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.0",
+    "morgan": "^1.8.2",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}

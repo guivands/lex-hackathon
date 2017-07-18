@@ -1,0 +1,70 @@
+Documentação de botão de login:
+https://developers.facebook.com/docs/facebook-login/web/login-button
+
+Lista de itens que podemos pedir permissão para o facebook para ter acesso na API de info do usuario:
+https://developers.facebook.com/docs/facebook-login/permissions/
+
+API Facebook para user info:
+https://developers.facebook.com/docs/graph-api/reference/v2.2/user
+
+
+
+EAALgaxZAuSZAEBAMHQmjKqd7SiwTMCA5pod43uA3T9ZCISQP6Vcr2LzM8zEdUQG7DzHgCEDJR13aJaDVuOjtmIxnsZCm4Eb8ZAg58Cmvr23KBP5P8yXEWFK9cjWCLQhkupn3yLxXVwmFimhLrm6Kf0ZB5Suj1nMcA2RLVjIkhoNWIN86JVEdqF48UYKM1BZBf8ZD
+EAALgaxZAuSZAEBAJxLxZCzvdbzJGcf8BxVxEZA3ImH35fUtCt71kGG59gamIiCC9RiXGzQdZA01OddZBV7JZC4Iqv4V2MAShXXTzTbEZCURhWlJKO1AFgnWJZBn9lLHofTm47OIMITIQxFM043193utz6tyiIqBbBy0XVumI7UJuZAZApmPKTecCzkbUjR8zZC91bMYZD
+
+user info: {"first_name":"Guilherme","gender":"male","last_name":"Gomes","profile_pic":"https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-1\/19149328_1546941262036331_7080710633598705826_n.jpg?oh=e814af35302d3722f0cb72ec5b660414&oe=5A0EEFB3"}
+https://scontent.xx.fbcdn.net/v/t1.0-1/19149328_1546941262036331_7080710633598705826_n.jpg?oh=e814af35302d3722f0cb72ec5b660414&oe=5A0EEFB3
+https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/19149328_1546941262036331_7080710633598705826_n.jpg?oh=98e99eb499987407fdb2bd9311503e94&oe=59C441CB
+https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/19554162_1558895790840878_7546735884032144332_n.jpg?oh=f4181ef93fdab9258f1e1c27ceccaf01&oe=59C93668
+https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/19149328_1546941262036331_7080710633598705826_n.jpg?oh=98e99eb499987407fdb2bd9311503e94&oe=59C441CB
+
+Cabarrala:
+{ sender: { id: '1320495577970521' },
+  recipient: { id: '200440840360781' },
+  timestamp: 1498345569273,
+  message: 
+   { mid: 'mid.$cAADsv7Wmz61jDaBD-Vc3Fr2gJexI',
+     seq: 31857,
+     text: 'hi' } }
+	 
+	 
+Test:
+{ sender: { id: '1449655571767367' },
+  recipient: { id: '320422681726492' },
+  timestamp: 1498345686174,
+  message: 
+   { mid: 'mid.$cAAF5n0ivEvxjDaIMnlc3Fy_JsQ7X',
+     seq: 31861,
+     text: 'hi' } }
+
+
+
+Rapha - Test:
+{ sender: { id: '1323703294332192' },
+  recipient: { id: '320422681726492' },
+  timestamp: 1498407206322,
+  message: 
+   { mid: 'mid.$cAAF5n59SqhtjEUzFslc4AeH1tKo9',
+     seq: 239610,
+     text: 'hi' } }
+
+
+
+
+Cabarrala:
+{ sender: { id: '1320495577970521' },
+  recipient: { id: '200440840360781' },
+  timestamp: 1498345730771,
+  message: 
+   { mid: 'mid.$cAADsv7Wmz61jDaK601c3F1tWXBJJ',
+     seq: 31863,
+     text: 'hi' } }
+	 
+Test:
+{ sender: { id: '1449655571767367' },
+  recipient: { id: '320422681726492' },
+  timestamp: 1498345744645,
+  message: 
+   { mid: 'mid.$cAAF5n0ivEvxjDaLxBVc3F2jhlgNc',
+     seq: 31867,
+     text: 'hi' } }
